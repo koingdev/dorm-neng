@@ -3,7 +3,7 @@
 Installation
 ------------
 
-    $ clone this repo
+    $ git clone https://github.com/koingdev/dorm-neng.git
     $ npm install
     $ react-native run-ios
 
